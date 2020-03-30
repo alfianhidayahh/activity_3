@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">pertemuan1</string>
+    <string name="labelapp">LOGIN USER</string>
+    <string name="un">Username</string>
+    <string name="ps">Password</string>
+    <string name="btn">Sign-In</string>
+    <string name="hsl">Ini Tampilan Hasil</string>
+    <string name="Masukkan_Password">Masukkan Password</string>
+    <string name="Masukkan_Username">Masukkan Username</string>
+    <string name="jdl">form pendaftaran</string>
+    <string name="nm">nama</string>
+    <string name="al">Alamat</string>
+    <string name="btndf">daftar</string>
+    <string name="no">No HP</string>
+    <string name="txtnm">masukkan nama</string>
+    <string name="txtal">masukkan alamat</string>
+    <string name="txthp">masukkan nomor handphone</string>
+    <string name="txt2">tampilkan hasil menu 2</string>
+    <string name="txt3">tampilkan hasil menu 3</string>
+</resources>
